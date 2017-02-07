@@ -1,8 +1,9 @@
-This
+<html>This
 is a text document
-with some words.
+<b>with some words.</b>
 
 Apple
 Aardvark
 Castle
 ...
+</html>
