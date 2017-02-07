@@ -1,4 +1,6 @@
-<html>This
+<html>
+<head><title>Title</title></head>
+<body><p>This
 is a text document
 <b>with some words.</b>
 
@@ -6,4 +8,6 @@ Apple
 Aardvark
 Castle
 ...
+</p>
+</body>
 </html>
